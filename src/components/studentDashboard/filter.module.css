@@ -1,0 +1,19 @@
+.filter {
+    background: #eeeeee;
+    padding: 5px 20px;
+    width: 13vw;
+    border-radius: 25px;
+    /* cursor: pointer; */
+    display: flex;
+    align-items: center;
+}
+
+.txt {
+    flex-grow: 1;
+    /* width: 90%;
+    display: block; */
+}
+
+.icon {
+    width: 1rem;
+}

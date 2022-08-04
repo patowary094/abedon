@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@400;700&display=swap');
+body{
+  background: #E5E5E5;
+  padding: 50px;
+}
+#toplogo
+{
+  float: left;
+  margin: 10px;
+}
+.card1{
+  border-radius: 20px;
+  background: white;
+  padding: 30px;
+}
+h3{
+  font-family: roboto;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 14px;
+}
+h1{
+
+  text-align: center;
+  line-height: 30px;
+  font-family: Catamaran;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+}
+.card2{
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content:  center;
+  /* --gap : 0.1rem; */
+  align-items: center;
+  margin: 20px;
+}
+/* .card2 >*{
+  margin-left: var(--gap);
+} */
+.cards{
+background: #F2F2F2;
+padding: 30px;
+border-radius: 19px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+margin: 30px;
+border: 20px;
+border-color: white;
+
+}
+
+.name{
+  margin-top: 25px;
+  text-align: center;
+  font-size: 22px ;
+  font-weight: bold;
+  font-family: roboto;
+  line-height: 26px;
+}
+a{
+   text-decoration: none;
+   color: black;
+}
+img{
+  margin-left: 13px;
+}

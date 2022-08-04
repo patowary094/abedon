@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap');
+body{
+  background: grey;
+}
+.outer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1rem;
+}
+.sub{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+input[type=text]{
+ background: #E8E8E8;
+border: none;
+ margin: 3px;
+ padding: 10px 20px;
+border-radius: 5px;
+width: 2%;
+}
+
+label{
+  font-family: Catamaran;
+font-size: 22px;
+font-style: normal;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+padding-bottom: 0.7em;
+padding-top: 1em;
+}
+
+.cardview{
+  padding-top: 40px;
+  display: flex;
+  flex-direction: column;
+  background: white;
+margin: 30px 25% 25% 25% ;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.4);
+border-radius: 13px;
+}
+h1{
+  font-family: Catamaran;
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 39px;
+text-align: center;
+color: #000000;
+}
+img{
+margin-left: 10%;
+}
+.para1{
+  font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 13px;
+text-align: center;
+color: #000000;
+opacity: 0.8;
+}
+.btn{
+  display: flex;
+
+}
+
+.loginbtn{
+  font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 12px;
+text-align: center;
+color: #FFFFFF;
+background: black;
+border: none;
+margin: .5rem;
+border-radius: 5px;
+padding: 10px 30px;
+margin-top:2em;
+}

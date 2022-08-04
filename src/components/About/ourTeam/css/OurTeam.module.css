@@ -1,0 +1,11 @@
+.cardTs{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.heading{
+    text-align: center;
+    margin-top: 8rem;
+    margin-bottom: 4rem;
+    font-family: sans-serif;
+}

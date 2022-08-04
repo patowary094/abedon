@@ -1,0 +1,10 @@
+.styleOne{
+    display: flex;
+    align-items: center;
+    flex: 2 0 25%; 
+ margin: 0.5rem;
+ flex-wrap: wrap;
+}
+.styleOne>*{
+    flex: 1 1 600px;
+}

@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    align-items: center;
+}
+
+img {
+    width: 2.5rem;
+    object-fit: contain;
+    margin-right: 0.6rem;
+}
+
+.logo {
+    flex-grow: 1;
+    display: flex;
+}
+
+.navb {
+    display: flex;
+}
+
+.navBtn {
+    background-color: transparent !important;
+    border-color: transparent !important;
+    box-shadow: none !important;
+    outline: none !important;
+    width: 2rem;
+}
+
+
+.navb > div {
+    margin-left: 2rem;
+}
+
+.navb .icons {
+    width: 2rem;
+    color: black;
+}
+

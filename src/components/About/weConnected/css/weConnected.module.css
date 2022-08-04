@@ -1,0 +1,30 @@
+.cardsW{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  margin:2rem 5rem 3rem;
+}
+.cardW{
+    height: 200px;
+    width: 150px;
+}
+.headingW{
+    text-align: center;
+    font-size: 2.2rem;
+    font-family: sans-serif;
+    margin-top: 3rem;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+.num{
+    text-align: center;
+    font-size: 2.2rem;
+   color: #895959;
+
+}
+.titleW{
+    text-align: center;
+    font-weight: 500;
+}

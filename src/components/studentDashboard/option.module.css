@@ -1,0 +1,14 @@
+.options {
+    display: flex;
+    align-items: center;
+    /* margin-top: 20rem; */
+}
+
+.tags {
+    display: flex;
+    flex-grow: 1;
+}
+
+.tags div {
+    margin-right: 0.6rem;
+}

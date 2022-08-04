@@ -1,0 +1,10 @@
+.heading{
+    margin-top: 4rem;
+    text-align: center;
+    font-size: 2rem;
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

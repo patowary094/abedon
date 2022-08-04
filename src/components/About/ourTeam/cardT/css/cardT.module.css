@@ -1,0 +1,18 @@
+.cardT{
+    width: 200px;
+    height: 40vh;
+}
+.imageT,h3,h5{
+    text-align: center;
+}
+h3{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+h5{
+    font-size: 1rem;
+    color: #895959;
+}
+.imageT{
+    clip-path: circle(50% at 50% 50%);
+}

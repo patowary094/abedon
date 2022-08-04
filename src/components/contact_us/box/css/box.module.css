@@ -1,0 +1,50 @@
+.rectangle{
+    margin: auto;
+    width: 50vw;
+    height: 90vh;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 30px rgba(137, 89, 89, 0.18);
+    border-radius: 5px;
+    margin-top:15vh;
+    text-align: center;
+    
+}
+
+/* h2{
+    padding:40px;
+}
+
+.heading{
+    text-align: center;
+}
+
+select{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.11);
+    border-radius: 20px;
+    width:60vw;
+    padding:20px;
+    margin-left: 370px;
+    height: 60px;
+    
+} */
+.inputs input{
+    padding:30px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    border-bottom-color: hsl(0, 21%, 44%);
+    width:700px;
+    
+}
+
+input #msg{
+    padding:100px;
+    height:50px;
+}
+
+#send{
+    padding: 50px;
+    width:100px;
+}

@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+body{
+  background: #E5E5E5;
+  padding: 50px;
+}
+.toplogo
+{
+  float: left;
+  margin: 10px;
+}
+h3{
+  font-family: Catamaran;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 35px;
+}
+.card1{
+  border-radius: 20px;
+  background: white;
+  padding: 30px;
+  box-shadow: 0px 4px 4px 0px #00000040;
+
+
+}
+.compname{
+  display: flex;
+  flex-direction: row;
+}
+.vector{
+  justify-content: center;
+  align-items: center;
+  padding-left: 47%;
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+.acc{
+  font-family: Roboto;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: center;
+}
+.btn{
+  color: white;
+  background: WHITE;
+text-align: center;
+padding-top: 10px;
+}
+button{
+  font-family: Roboto;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: center;
+background: #2F2E41;
+color: white;
+padding: 10px 30px;
+border: none;
+border-radius: 6px;
+margin: 10px;
+}

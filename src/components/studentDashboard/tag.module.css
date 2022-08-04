@@ -1,0 +1,15 @@
+.tag {
+    background: #dddddd;
+    padding: 5px 20px;
+    border-radius: 25px;
+    cursor: pointer;
+    /* transition: all .5s ease; */
+}
+
+.chosenTag {
+    background: #b25cd1;
+    padding: 5px 20px;
+    border-radius: 25px;
+    cursor: pointer;
+    /* transition: all .5s ease; */
+}

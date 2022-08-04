@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.container{
+   width:100%;
+   margin-left: 1 rem;
+    
+}
+
+.top{
+    background-color:#FFFDFD;
+    /* width:100%; */
+    height:100px;
+    display: flex;
+    flex-direction: row;
+    padding:50px;
+    
+}
+
+.bottom{
+   display: flex;
+   flex-direction: row;
+   /* width:100%; */
+   /* height:100px; */
+}
+
+.first{
+    
+    flex:4;
+    height:230px;
+    background-color: #FFFDFD;
+    padding: 50px;
+}
+
+.company{
+    
+    flex:2;
+    height:230px;
+    background-color: #FFFDFD;
+    flex-direction: column;
+}
+
+.division1{
+    padding-left:20px;
+}
+.division2{
+    padding-left:20px;
+    display:flex;
+    flex-direction: column;
+}
+.division3{
+    padding-left:20px;
+}
+.division4{
+    padding-left:20px;
+    display:flex;
+    flex-direction: column;
+}
+.division5{
+    padding-left:20px;
+}
+.division6{
+    padding-left:20px;
+    display:flex;
+    flex-direction: column;
+    
+}
+
+.region{
+    
+    flex:2;
+    height:230px;
+    background-color:#FFFDFD;
+}
+
+.help{
+    
+    flex:2;
+    height:230px;
+    background-color:  #FFFDFD;
+    
+}
+
+.first p{
+    color:  #895959;
+    padding:5px;
+}
+
+h2 h1{
+    font-family: 'Roboto', sans-serif;;
+}
+
+a{
+    color:  #895959;
+    text-decoration: none;
+    padding: 5px;  
+}
